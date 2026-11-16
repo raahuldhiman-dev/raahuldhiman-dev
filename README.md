@@ -1,47 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Rahul%20Dhiman&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20of%20DhimanSoft&descAlignY=60&descSize=20" width="100%" alt="Rahul Dhiman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=180&section=header&text=Rahul%20Dhiman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20of%20DhimanSoft&descAlignY=62&descSize=18" width="100%" alt="Rahul Dhiman" />
 
 <a href="https://github.com/raahuldhiman-dev">
-  <img src="https://avatars.githubusercontent.com/u/112004431?s=240&v=4" width="140" height="140" alt="Rahul Dhiman" />
-</a>
-
-<h3>Hi 👋, I'm Rahul Dhiman</h3>
-
-<a href="https://github.com/raahuldhiman-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+from+India;Laravel+%7C+React+%7C+Python;Building+SaaS%2C+AI+%26+scalable+web+apps;Helping+startups+%26+businesses+launch+fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Laravel+%7C+React+%7C+Python+%7C+AI;Founder+%40+DhimanSoft;Helping+startups+%26+businesses+launch+fast" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=raahuldhiman-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/raahuldhiman-dev?style=for-the-badge&logo=github&color=7c3aed" alt="Followers" />
-
-<br/><br/>
-
-<a href="https://raahuldhiman-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://raahuldhiman-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.dhimansoft.com/"><img src="https://img.shields.io/badge/DhimanSoft-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="DhimanSoft" /></a>
 <a href="https://topmate.io/rahul_dhiman"><img src="https://img.shields.io/badge/Book%20a%20Call-FF5A5F?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Topmate" /></a>
 <a href="https://linkedin.com/in/rahuldhimanofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/rahuldh12091"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://fb.com/raahuldhimanofficial"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/raahuldhimanofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=raahuldhiman-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/raahuldhiman-dev?style=flat-square&logo=github&color=7c3aed" alt="Followers" />
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-```js
+```ts
 const rahul = {
-  name: "Rahul Dhiman",
-  role: "Full-Stack Developer",
-  founder: "DhimanSoft",
-  stack: ["Laravel", "React", "Python"],
-  building: ["SaaS products", "AI solutions", "Scalable web apps"],
-  mission: "Helping startups & businesses launch fast",
-  location: "India | Remote Worldwide 🌍"
+  role: "Full-Stack Developer & SaaS Builder",
+  company: "Founder @ DhimanSoft (dhimansoft.com)",
+  coreStack: ["Laravel", "React", "Next.js", "Python", "FastAPI", "AWS"],
+  focus: ["AI Agents & RAG", "Multi-Tenant SaaS", "Scalable Web Apps"],
+  availability: "Open for consulting & MVP builds 🌍",
+  bookCall: "[https://topmate.io/rahul_dhiman](https://topmate.io/rahul_dhiman)"
 };
 ```
 
